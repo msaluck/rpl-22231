@@ -1,5 +1,5 @@
 #Rekayasa Perangkat Lunak
-#Kelompok 4 
+#Kelompok C
 # Abit Yudha Prasetyo (H1A020013)
 # Ratna Iramaya Aziza(H1A020012)
 # Muhammad Satria Adjie Nugraha (H1A020081)
