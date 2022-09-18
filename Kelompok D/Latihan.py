@@ -1,8 +1,8 @@
-#Kelompok D
-#Anggota:
-#1. Arsil Kultura Anzil (H1A020051)
-#2. Muhammad Putra Yubiksana (H1A020059)
-#3. Dede Ridwan
+#KELOMPOK D
+#Nama Anggota:
+#1. Dede Ridwan (H1A020033)
+#2. Arsil Kultura Anzil (H1A20051)
+#3. Muhammad Putra Yubiksana (H1A020059)
 
 i = int(input("Masukkan Nilai Anda : "))
 if(i <= 60):
