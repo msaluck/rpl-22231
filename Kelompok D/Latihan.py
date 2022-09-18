@@ -12,4 +12,4 @@ elif(61 <= i < 80):
     print("Grade Nilai Anda B")
     print("Anda Sudah Lulus")
 else:
-    print("Anda Lulus")
+    print("Anda Salah Memasukan Input")
